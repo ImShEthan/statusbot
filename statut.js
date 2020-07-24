@@ -95,4 +95,4 @@ client.on("message", async message => {
 
 
 
-client.login("NzMwMTk3NDIwNDE5NDQ4ODc0.XwT_pA.pcIm_3JiQjCu3-9xzp45k_cUsjw")
+client.login("TOKEN")
